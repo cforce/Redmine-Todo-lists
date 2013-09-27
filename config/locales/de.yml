@@ -1,7 +1,7 @@
 ﻿# German strings go here for Rails i18n
-en:
+de:
   project_module_todos_module: "Todo's"
-
+  
   label_todo_plural: "Todo's"
   label_todo_list_plural: "ToDo Liste"
 
@@ -33,3 +33,5 @@ en:
   permission_create_todos: "ToDo's erstellen"
   permission_update_todos: "ToDo's bearbeiten"
   permission_delete_todos: "ToDo's löschen"
+  
+  label_todos_default_tracker: Todo Tracker
